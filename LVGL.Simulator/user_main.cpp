@@ -8,5 +8,5 @@ void user_main() {
     lv_obj_set_size(switch_obj, 120, 60);
     lv_obj_align(switch_obj, LV_ALIGN_CENTER, 0, 0);
 
-    int a = 0;
+    int a = 1;
 }
