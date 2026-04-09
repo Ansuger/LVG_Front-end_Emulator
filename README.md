@@ -2,6 +2,8 @@
 
 ![Screenshot](Screenshot.png)
 
+这是一个个人的学习LVGL界面所使用的仓库，为了解决双设备的异地同步
+
 ## Introduction
 
 This is a pre-configured Visual Studio project to try LVGL on a Windows PC. The
